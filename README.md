@@ -1,16 +1,15 @@
 ### Hi there 👋
+## I am a Flour-MO 👇
 
-<!--
-**Flour-MO/Flour-MO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                       ________ ___       ________  ___  ___  ________                 _____ ______   ________     
+                      |\  _____\\  \     |\   __  \|\  \|\  \|\   __  \               |\   _ \  _   \|\   __  \    
+                      \ \  \__/\ \  \    \ \  \|\  \ \  \\\  \ \  \|\  \  ____________\ \  \\\__\ \  \ \  \|\  \   
+                       \ \   __\\ \  \    \ \  \\\  \ \  \\\  \ \   _  _\|\____________\ \  \\|__| \  \ \  \\\  \  
+                        \ \  \_| \ \  \____\ \  \\\  \ \  \\\  \ \  \\  \\|____________|\ \  \    \ \  \ \  \\\  \ 
+                         \ \__\   \ \_______\ \_______\ \_______\ \__\\ _\               \ \__\    \ \__\ \_______\
+                          \|__|    \|_______|\|_______|\|_______|\|__|\|__|               \|__|     \|__|\|_______|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
